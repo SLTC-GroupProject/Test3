@@ -39,7 +39,7 @@ namespace Test.Controllers
 
         public void getAllWether()
         {
-
+            //what to write
         }
     }
 }
