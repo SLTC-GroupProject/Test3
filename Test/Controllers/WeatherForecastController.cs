@@ -35,5 +35,11 @@ namespace Test.Controllers
             })
             .ToArray();
         }
+
+
+        public void getAllWether()
+        {
+            //what to write
+        }
     }
 }
